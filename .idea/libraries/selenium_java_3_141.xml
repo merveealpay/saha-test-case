@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="selenium-java-3.141">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/selenium-java-3.141.59" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
